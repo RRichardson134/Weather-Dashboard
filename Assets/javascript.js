@@ -1,2 +1,4 @@
-let topheader = "#header1"
-let searchbox = "#city1";
+let topheader = document.querySelector("#header1");
+let searchbox = document.querySelector("#city1");
+let citybtn = document.querySelector("#ctybtn")
+
